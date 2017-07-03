@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+        // this is for testing
         AccountParams accountParams = new AccountParams();
         accountParams.setComp_code("55");
         accountParams.setMain_code("55");
